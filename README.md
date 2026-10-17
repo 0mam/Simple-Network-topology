@@ -1,5 +1,5 @@
 # Simple-Network-topology
-below is a simple networking connection for Netco Ltd
+below is a simple networking connection for Netcore Ltd
 # Netcore Ltd Network Topology and Connectivity Testing
 
 A Cisco Packet Tracer networking project that models a small organisation, **Netcore Ltd**, with separate IT, Sales, and HR departmental networks. The project documents the network layout, sample endpoint configuration, router startup, and basic connectivity checks, including a successful ping to the server and HTTP access to the hosted Netcore Ltd webpage.
